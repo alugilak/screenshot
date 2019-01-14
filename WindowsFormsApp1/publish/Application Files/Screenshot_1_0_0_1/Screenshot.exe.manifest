@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Screenshot.exe" version="1.0.0.1" publicKeyToken="119c88ca492fe8bb" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Screenshot" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Screenshot.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC-Manifestoptionen
+          Wenn Sie die Ebene der Windows-Benutzerkontensteuerung ändern möchten, ersetzen Sie den 
+          Knoten "requestedExecutionLevel" durch eine der folgenden Angaben.
+
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel level="highestAvailable" uiAccess="false" />
+
+         Wenn Sie Datei- und Registrierungsvirtualisierung für Abwärtskompatibilität 
+         verwenden möchten, löschen Sie den Knoten "requestedExecutionLevel".
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Screenshot.exe" size="125968">
+      <assemblyIdentity name="Screenshot" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>07X0vJejg/YWpcOZy8JAQwuU4bg/T0DZOBHgKhHf7bU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Screenshot.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>wDmrlTz6aNIp269ZO0+f+NuBph+l7PSF+/aeuhX4N/I=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=silentwolf-PC\silentwolf" issuerKeyHash="4e485bae21263d76741f327391acc4a98d6ba1e4" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>09RlimmN6MXu9DtSHqx5Luock5xNnX1o6oqu/2xpvjc=</DigestValue></Reference></SignedInfo><SignatureValue>jlPx25xH+HBIZJVsQG9EgJtJwbJanLxpalXwUGOF+39dQ7Srz3lxvAi6HUV0Ho+E/1iKIv+wcDdbh8P4znV2rS83L1dj6CsfwWPpe8c2V16Rp0sCEToD5tKCGrfhbR/coNbO8f7iHucVHqwZIFMnGkOM5DXMN+VUJqpbZsKCi6E=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>wubkngvFynYnFvhIVbdFt3hTYkXB5o8Blc9Fy4MsL3fHaVLVgScO4WqwL0QeBVDGUs1kX9E6yGz/3lR70vyErN8kHYMsC+M3ZNm398w8hlpoT66J9etvUviUnqQESaSUl739N7BN9imLpLnmFr2jXCy4EVVjIUuMIad2tEKoJzM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="37be696cffae8aea687d9d4d9c931cea2e79ac1e523bf4eec5e88d698a65d4d3" Description="" Url=""><as:assemblyIdentity name="Screenshot.exe" version="1.0.0.1" publicKeyToken="119c88ca492fe8bb" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=silentwolf-PC\silentwolf</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>LqFs0TsKELBRSi2IUd0pqIoTRNGRRiO4v7Ru2oRVwzE=</DigestValue></Reference></SignedInfo><SignatureValue>XfVuQCkcjDmzv5sk2gcSguMFObaYiZuL+l0dabEwIFIfq3eA9sAKoGTduhHn+TH5nG9Fz7TkBLgiVWo3BNAN8D2joctWZGBM/P//MMW7fPIbTA9KUuf8LMj/DnfD4/XhEFwzrZM/DfDLZw4ByQEbfXo1dNnyy+2H7r8kHu7OtOk=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>wubkngvFynYnFvhIVbdFt3hTYkXB5o8Blc9Fy4MsL3fHaVLVgScO4WqwL0QeBVDGUs1kX9E6yGz/3lR70vyErN8kHYMsC+M3ZNm398w8hlpoT66J9etvUviUnqQESaSUl739N7BN9imLpLnmFr2jXCy4EVVjIUuMIad2tEKoJzM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB+TCCAWKgAwIBAgIQFxDYCeANtrBI4aunAWO8BTANBgkqhkiG9w0BAQsFADA7MTkwNwYDVQQDHjAAcwBpAGwAZQBuAHQAdwBvAGwAZgAtAFAAQwBcAHMAaQBsAGUAbgB0AHcAbwBsAGYwHhcNMTkwMTE0MTQxMTU4WhcNMjAwMTE0MjAxMTU4WjA7MTkwNwYDVQQDHjAAcwBpAGwAZQBuAHQAdwBvAGwAZgAtAFAAQwBcAHMAaQBsAGUAbgB0AHcAbwBsAGYwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMLm5J4Lxcp2Jxb4SFW3Rbd4U2JFweaPAZXPRcuDLC93x2lS1YEnDuFqsC9EHgVQxlLNZF/ROshs/95Ue9L8hKzfJB2DLAvjN2TZt/fMPIZaaE+uifXrb1L4lJ6kBEmklJe9/TewTfYpi6S55ha9o1wsuBFVYyFLjCGndrRCqCczAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAuRQfhRNHDIQBKlNlA1DQ22/DwlzPCgHnGWLxdstJWI0o0jkTGojFqJgKQMiTm/ZNOWO9WoM/rLU0buiw1zT6KQZ1f5E0EaTHY0U6AkJgQzxzC2hLpkD5CplglH9CBYm9cny/i25rtPjWQOY5mr9Mil0nDe7fLWf8K6ITZ1gI62M=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

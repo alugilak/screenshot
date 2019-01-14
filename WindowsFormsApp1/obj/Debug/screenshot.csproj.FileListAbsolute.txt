@@ -1,0 +1,13 @@
+C:\Users\silentwolf\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Screenshot.exe.config
+C:\Users\silentwolf\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Screenshot.exe.manifest
+C:\Users\silentwolf\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Screenshot.application
+C:\Users\silentwolf\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Screenshot.exe
+C:\Users\silentwolf\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Screenshot.pdb
+C:\Users\silentwolf\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\silentwolf\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Screenshot.Properties.Resources.resources
+C:\Users\silentwolf\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\screenshot.csproj.GenerateResource.cache
+C:\Users\silentwolf\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\screenshot.csproj.CoreCompileInputs.cache
+C:\Users\silentwolf\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Screenshot.exe.manifest
+C:\Users\silentwolf\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Screenshot.application
+C:\Users\silentwolf\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Screenshot.exe
+C:\Users\silentwolf\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Screenshot.pdb
