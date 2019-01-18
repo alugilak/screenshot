@@ -1,0 +1,15 @@
+C:\Users\silentWolf\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Screenshot.exe.config
+C:\Users\silentWolf\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Screenshot.exe.manifest
+C:\Users\silentWolf\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Screenshot.application
+C:\Users\silentWolf\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Screenshot.exe
+C:\Users\silentWolf\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Screenshot.pdb
+C:\Users\silentWolf\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ScreenShot.csprojAssemblyReference.cache
+C:\Users\silentWolf\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Screenshot.resources
+C:\Users\silentWolf\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Screenshot.Properties.Resources.resources
+C:\Users\silentWolf\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ScreenShot.csproj.GenerateResource.cache
+C:\Users\silentWolf\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ScreenShot.csproj.CoreCompileInputs.cache
+C:\Users\silentWolf\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Screenshot.TrustInfo.xml
+C:\Users\silentWolf\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Screenshot.exe.manifest
+C:\Users\silentWolf\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Screenshot.application
+C:\Users\silentWolf\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Screenshot.exe
+C:\Users\silentWolf\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Screenshot.pdb
